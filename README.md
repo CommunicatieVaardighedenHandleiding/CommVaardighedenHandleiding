@@ -1,0 +1,1 @@
+Build status: [![Documentation Status](https://readthedocs.org/projects/commvaardighandleiding/badge/?version=latest)](http://commvaardighandleiding.readthedocs.org/en/latest/?badge=latest)
